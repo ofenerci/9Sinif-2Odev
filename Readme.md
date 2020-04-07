@@ -19,7 +19,7 @@ Aşağıdak sorular cevaplayın:
 a) Defterinizde çizdiğiniz grafiğin eğimini ne buldunuz? (Defterinizde noktaları birleştirirken kesiksiz tek bir doğru ile birleştirin.  Noktalar çizdiğiniz doğruya olabildiğince yakın olsun.) Ne dediğimi daha iyi anlamak için başka bir [videoyu](https://www.youtube.com/watch?v=s0YMDXf-2SI) seyredebilirsiniz. 
 **Cevap:**
 
-b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8Yvb5NjG3bL3VnrP7Rth6o/edit?usp=sharing) dosyasını inceleyin ve nasıl grafik çizildiğini anlayın. Bunun için [Google Sheet kullanarak eğim bulma] (https://tr.geekmarkt.com/how-find-slope-google-sheets) derslerini kullanabilirsiniz. Bilgisayarın hesapladığı eğim formülü *y = 21.7x + 0.25* ile veriliyor. Sizin elle çizdiğiniz grafiğin eğim formülü nedir? Aşağıya sizin bulduğunuz eğim formülünü yazın. 
+b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8Yvb5NjG3bL3VnrP7Rth6o/edit?usp=sharing) dosyasını inceleyin ve bilgisayar ile nasıl grafik çizildiğini anlayın. Bunun için [Google Sheet kullanarak eğim bulma] (https://tr.geekmarkt.com/how-find-slope-google-sheets) derslerini kullanabilirsiniz. Bilgisayarın hesapladığı eğim formülü *y = 21.7x + 0.25* ile veriliyor. Sizin elle çizdiğiniz grafiğin eğim formülü nedir? Aşağıya sizin bulduğunuz eğim formülünü yazın. 
 **Cevap:** 
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
