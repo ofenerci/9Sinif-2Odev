@@ -30,7 +30,7 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 
 # Bölüm 2
-3. [Bu Videoyu](https://www.youtube.com/watch?v=EbVeoJBjHTw) izleyin. Hangi öğrenci tipine benziyorsun?
+3. [Bu Videoyu](https://www.youtube.com/watch?v=EbVeoJBjHTw) izleyin. Hangi öğrenci tipine benziyorsun? (Sizin yönünüze göre)
 **Cevap**: (Soldaki), (Ortadaki), (Sağdaki)
 4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken asla doğru üzerinde **işaretlediğimiz noktalar**  alınmaz. Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?
 **Cevap**:
