@@ -19,14 +19,13 @@ Aşağıdak sorular cevaplayın:
 a) Defterinizde çizdiğiniz grafiğin eğimini ne buldunuz? (Defterinizde noktaları birleştirirken kesiksiz tek bir doğru ile birleştirin.  Noktalar çizdiğiniz doğruya olabildiğince yakın olsun.) Ne dediğimi daha iyi anlamak için başka bir [videoyu](https://www.youtube.com/watch?v=s0YMDXf-2SI) seyredebilirsiniz. 
 **Cevap:**
 
-b) Bilgisayarın hesapladığı eğim formülü *y = 21.7x + 0.25* ile veriliyor. Sizin elle çizdiğiniz grafiğin eğim formülü nedir? Aşağıya sizin bulduğunuz eğim formülünü yazın. 
+b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8Yvb5NjG3bL3VnrP7Rth6o/edit?usp=sharing) dosyasını inceleyin ve nasıl grafik çizildiğini anlayın. Bunun için [Google Sheet kullanarak eğim bulma] (https://tr.geekmarkt.com/how-find-slope-google-sheets) derslerini kullanabilirsiniz. Bilgisayarın hesapladığı eğim formülü *y = 21.7x + 0.25* ile veriliyor. Sizin elle çizdiğiniz grafiğin eğim formülü nedir? Aşağıya sizin bulduğunuz eğim formülünü yazın. 
 **Cevap:** 
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
 **Cevap:**
 
-2. [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8Yvb5NjG3bL3VnrP7Rth6o/edit?usp=sharing) dosyasını inceleyin ve nasıl grafik çizildiğini anlayın. Bunun için [Google Sheet kullanarak eğim bulma] (https://tr.geekmarkt.com/how-find-slope-google-sheets) derslerini kullanabilirsiniz. 
-Örnek olarak bir yaya uygulanan kuvvetle, o yayın uzama miktarına ait tablo aşağıda verilmiştir.
+
 
 
 
@@ -44,4 +43,6 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 |        |     |
 |        |    |
 |        |     |
+
+6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](   ). 
 
